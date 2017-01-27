@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Contact Page.html",
+    "currentPage": "Laura Corominas Website",
     "name": "Laura Coromina",
     "theme": {
       "name": "mobirise3",
@@ -23,13 +23,8 @@
     "versionFirst": "3.10.4",
     "uniqCompNum": 58,
     "versionPublish": "3.11.1",
-    "publishFtpPath": "public_html",
     "favicon": "",
-    "noImageResize": "",
-    "publishPath": "@PROJECT_PATH@",
-    "publishType": "github",
-    "gitHubName": "lauracoromina",
-    "gitHubPath": ""
+    "noImageResize": ""
   },
   "pages": {
     "Laura Corominas Website": {
@@ -389,8 +384,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -399,8 +394,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -634,8 +629,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-5748.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-5750.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -644,8 +639,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-5149.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-7651.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -869,8 +864,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -879,8 +874,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1105,8 +1100,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1115,8 +1110,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1298,7 +1293,7 @@
             "paddingBottom": "4",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/file_000%20(2)-2000x1124.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/file-000-2-2000x1124.png",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1319,7 +1314,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file_000%20(1)-1400x2490.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x2490.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1531,7 +1526,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/file_000%20(2)-2000x1124.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/file-000-2-2000x1124.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1771,8 +1766,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1781,8 +1776,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2007,8 +2002,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2017,8 +2012,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2243,8 +2238,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2253,8 +2248,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2479,8 +2474,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2489,8 +2484,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "file:///C:/Users/0217301/AppData/Local/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
