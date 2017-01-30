@@ -438,8 +438,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-570.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-572.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-574.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-576.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -448,8 +448,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-511.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-763.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-767.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
