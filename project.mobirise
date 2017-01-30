@@ -438,8 +438,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-5735.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-5737.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-570.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-572.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -448,8 +448,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-5136.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-7638.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-511.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-763.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2507,7 +2507,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x249039.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x24904.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2704,7 +2704,8 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -2726,20 +2727,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-25",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#3c5364"
-          },
-          "text": "Laura Coromina Is an eigth grader currently attending Miami Arts Studio 6-12. She is 14 years old and persues a job as an accountant for now. She has been taking Technology Production for 3 years and is ahead in Math 2 years. She has done a series of competitions showcasing her talents, such as the MDCPS Refresh Logo Competition and the Innovate CTE Challenge. Laura has participated in theater production as either production manager or prop handler. Laura has been in SECME and in Bionic Hand. She as experiance with building things and electrical work. &nbsp;Laura works hard and never gives up. She is determined and tries to produce quality work. She listens and works well with others. Laura's aspiration in life is to have everyone modernized and social with everyone.&nbsp;",
           "_styles": {
             "DIV": {
               "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
-          }
+          },
+          "_anchor": "content1-25",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3c5364"
+          },
+          "text": "Laura Coromina Is an eigth grader currently attending Miami Arts Studio 6-12. She is 14 years old and persues a job as an accountant for now. She has been taking Technology Production for 3 years and is ahead in Math 2 years. She has done a series of competitions showcasing her talents, such as the MDCPS Refresh Logo Competition and the Innovate CTE Challenge. Laura has participated in theater production as either production manager or prop handler. Laura has been in SECME and in Bionic Hand. She as experiance with building things and electrical work. &nbsp;Laura works hard and never gives up. She is determined and tries to produce quality work. She listens and works well with others. Laura's aspiration in life is to have everyone modernized and social with everyone.&nbsp;"
         },
         {
           "_tags": [
