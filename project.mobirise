@@ -438,8 +438,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-575.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-577.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-5710.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-5712.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -448,8 +448,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-516.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-5111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-7613.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2475,7 +2475,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#c1c1c1",
+              "color": "#ffffff",
               "text-align": "left"
             }
           },
@@ -2507,7 +2507,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x24909.jpg",
+              "src": "@PROJECT_PATH@/assets/images/file-000-1-1400x249014.jpg",
               "link": "",
               "alt": "",
               "title": "",
