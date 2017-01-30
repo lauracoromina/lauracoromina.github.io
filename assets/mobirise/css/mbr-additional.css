@@ -1105,6 +1105,7 @@ h6,
 
 
 
+
 #ext_menu-1o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1180,6 +1181,13 @@ h6,
 #header1-3 .btn {
   font-family: 'Lora', serif;
 }
+#msg-box5-23 H3 {
+  color: #ffffff;
+}
+#msg-box5-23 P {
+  color: #c1c1c1;
+  text-align: left;
+}
 #header3-1n .mbr-section-title,
 #header3-1n .mbr-section-subtitle {
   text-align: center;
@@ -1197,9 +1205,21 @@ h6,
 }
 #features7-1m P {
   color: #ffffff;
+  text-align: left;
 }
 #features7-1m H4 {
   color: #ffffff;
+}
+#header3-24 .mbr-section-title,
+#header3-24 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-24 H3 {
+  color: #ffffff;
+}
+#content1-25 DIV {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
 }
 
 
