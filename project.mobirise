@@ -258,7 +258,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -438,8 +438,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-5712.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-5714.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-570.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-572.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -448,8 +448,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-5113.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-7615.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-511.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-763.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -496,7 +496,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -724,7 +724,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -953,7 +953,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -1156,7 +1156,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -1391,7 +1391,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -1627,7 +1627,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -1863,7 +1863,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -2099,7 +2099,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -2307,7 +2307,7 @@
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -2638,10 +2638,10 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1t",
+          "_anchor": "contacts1-1v",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2663,7 +2663,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street,<br> Miami, FL 33185<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         }
@@ -2863,7 +2863,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Address</strong><br>5208 sw 141 ave<br>Miami FL, 33175",
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185",
           "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
           "text3": ""
         },
