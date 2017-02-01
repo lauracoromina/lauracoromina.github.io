@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 95,
+    "uniqCompNum": 111,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-favicon-2-128x128.png",
     "noImageResize": "",
@@ -33,242 +33,7 @@
     "123D.html": {
       "settings": {
         "title": "123D ",
-        "order": 10
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "19px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-family": "'Lora', serif"
-            },
-            ".link": {
-              "font-size": "0.8rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-r",
-          "_params": {
-            "bgColor": "#1a1329",
-            "fontSize": "0.8",
-            "fontName": {
-              "name": "Lora",
-              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "css": "'Lora', serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laura Coromina</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-3\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe products.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Adobe Products</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe products.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word.html\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint.html\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel.html\">Microsoft Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access.html\">Microsoft Access</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAT Scores.html\">SAT Scores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP courses.html\">AP Courses</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact Page.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1h",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Sixth Grade, Seventh Grade, Eight Grade",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Sixth Grade, Seventh Grade, Eight Grade",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": true,
-            "bgColor": "#000000",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-1i",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-4",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/0-128x80-55.jpg",
-              "width": 128,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "mobile",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "<strong>Address</strong><br>15015 SW 24th Street,<br> Miami, FL 33185<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
-          "text3": ""
-        }
-      ]
-    },
-    "Photoshop.html": {
-      "settings": {
-        "title": "Adobe Photoshop",
-        "order": 3
+        "order": 9
       },
       "components": [
         {
@@ -330,7 +95,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-2",
+          "_anchor": "ext_menu-r",
           "_params": {
             "bgColor": "#1a1329",
             "fontSize": "0.8",
@@ -372,6 +137,251 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-30",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#0b0812",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "images": [
+              {
+                "tags": "Sixth Grade, Seventh Grade, Eight Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Sixth Grade, Seventh Grade, Eight Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-1.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": true,
+            "bgColor": "#1b1726",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-31",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-4",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/0-128x80-55.jpg",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street,<br> Miami, FL 33185<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: lcoromina@miamiartsstudio.com<br>\nPhone: 7865977970<br>\n2nd Phone: 7862708916",
+          "text3": ""
+        }
+      ]
+    },
+    "Photoshop.html": {
+      "settings": {
+        "title": "Adobe Photoshop",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "19px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#040306"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#130e1f!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1a1329"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2m",
+          "_params": {
+            "bgColor": "#1a1329",
+            "fontSize": "0.8",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-597x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laura Coromina</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-3\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe products.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Adobe Products</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe products.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word.html\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint.html\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel.html\">Microsoft Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access.html\">Microsoft Access</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAT Scores.html\">SAT Scores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP courses.html\">AP Courses</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact Page.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
               "color": "#ffffff",
               "text-align": "left"
             },
@@ -388,7 +398,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#1b1726",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -516,9 +526,9 @@
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#0b0812",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -569,7 +579,7 @@
     },
     "Illustrator.html": {
       "settings": {
-        "order": 4,
+        "order": 3,
         "title": "Adobe Illustrator"
       },
       "components": [
@@ -609,13 +619,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -632,7 +642,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-2",
+          "_anchor": "ext_menu-2m",
           "_params": {
             "bgColor": "#1a1329",
             "fontSize": "0.8",
@@ -644,19 +654,21 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-597x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -680,7 +692,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#0b0812",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -714,7 +726,15 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -750,7 +770,7 @@
             "spacing": "1",
             "showText": false,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#1b1726",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -764,7 +784,7 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1t",
+          "_anchor": "contacts1-1v",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -779,9 +799,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-footer-3-128x128.png",
               "width": 128,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -799,7 +823,7 @@
       "settings": {
         "title": "Adobe Animate",
         "meta_descr": "",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -838,13 +862,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -909,7 +933,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#1b1726",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -943,7 +967,15 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -979,7 +1011,7 @@
             "spacing": "1",
             "showText": false,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#0b0812",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -1027,7 +1059,7 @@
     "Word.html": {
       "settings": {
         "title": "Microsoft Word",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -1066,13 +1098,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1129,15 +1161,23 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1a",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-2s",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#0b0812",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1171,7 +1211,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1188,8 +1228,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1198,8 +1238,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1207,12 +1247,12 @@
             "spacing": "1",
             "showText": false,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#1b1726",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery4-19",
+          "_anchor": "gallery4-2t",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1263,58 +1303,9 @@
       "settings": {
         "title": "Microsoft Access",
         "meta_descr": "Web Site Builder Description",
-        "order": 7
+        "order": 6
       },
       "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1c",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": 0,
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -1351,13 +1342,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1410,6 +1401,63 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-3\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe products.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Adobe Products</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Animate.html\">Adobe Animate</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe products.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Word.html\">Microsoft Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Powerpoint.html\">Microsoft Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Excel.html\">Microsoft Excel</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Access.html\">Microsoft Access</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\" aria-expanded=\"false\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">IC3 Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"SAT Scores.html\">SAT Scores</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"AP courses.html\">AP Courses</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFRENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact Page.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-2u",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#1b1726",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
@@ -1424,8 +1472,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1434,8 +1482,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-2.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1443,12 +1491,12 @@
             "spacing": "1",
             "showText": false,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#0b0812",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery4-1b",
+          "_anchor": "gallery4-2v",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1499,7 +1547,7 @@
       "settings": {
         "title": "Microsoft Powerpoint",
         "meta_descr": "Web Site Creator Description",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -1538,13 +1586,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1601,15 +1649,23 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1d",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-2w",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#0b0812",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1643,7 +1699,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1660,8 +1716,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1670,8 +1726,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1679,12 +1735,12 @@
             "spacing": "1",
             "showText": false,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#1b1726",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery4-1e",
+          "_anchor": "gallery4-2x",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1735,7 +1791,7 @@
       "settings": {
         "title": "Microsoft Excell",
         "meta_descr": "Web Site Builder Description",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -1774,13 +1830,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1837,7 +1893,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-1f",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box5-2y",
           "_params": {
             "imageSize": 50,
             "paddingTop": "2",
@@ -1845,7 +1909,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#1b1726",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1896,8 +1960,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-800x533-57-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476039863276-5b0ebbbc488f-2000x1333-57-2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1906,8 +1970,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-800x523-51-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1429288712383-5e64a0562de8-2000x1309-76-2.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1915,12 +1979,12 @@
             "spacing": "1",
             "showText": false,
             "filter": true,
-            "bgColor": "#000000",
+            "bgColor": "#0b0812",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery4-1g",
+          "_anchor": "gallery4-2z",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -1970,7 +2034,8 @@
     "Contact Page.html": {
       "settings": {
         "title": "Contact Page",
-        "meta_descr": "Site Maker Description"
+        "meta_descr": "Site Maker Description",
+        "order": 10
       },
       "components": [
         {
@@ -2009,13 +2074,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#454545"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#565656!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#5e5e5e"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2077,7 +2142,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "SMALL": {
               "color": "#ffffff",
@@ -2092,12 +2157,12 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#222",
+            "overlayOpacity": "0.7",
+            "overlayColor": "#0b0812",
             "showTitle": true,
             "showSubTitle": true
           },
@@ -2106,7 +2171,7 @@
           "form": {
             "action": "lcoromina@miamiartsstudio.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out this form and I will contact you as soon as possible!"
             },
             "fields": {
               "name": {
@@ -2290,7 +2355,7 @@
           "_styles": {
             ".mbr-section-lead": {
               "text-align": "center",
-              "font-size": "24px",
+              "font-size": "20px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
@@ -2324,7 +2389,7 @@
             "showButtons": true
           },
           "title": "Laura Coromina",
-          "text": "<br>Laura Coromina Is an eigth grader currently attending Miami Arts Studio 6-12. She is 14 years old and persues a job as an accountant for now. She has been taking Technology Production for 3 years and is ahead in Math 2 years. She has done a series of competitions showcasing her talents, such as the MDCPS Refresh Logo Competition and the Innovate CTE Challenge.<br>",
+          "text": "<br>Laura Coromina Is an eigth grader currently attending Miami Arts Studio 6-12. She is 14 years old and persues a job as an accountant for now. She has been taking Technology Production for 3 years and is ahead in math 2 years. She has done a series of competitions showcasing her talents, such as the MDCPS Refresh Logo Competition and the Innovate CTE Challenge.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-24\" data-toolbar=\"-mbrBtnMove\">Full Biography</a>"
         },
         {
@@ -2343,9 +2408,9 @@
           "_name": "header3",
           "_anchor": "header3-1n",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#0b0812",
+            "bgColor": "#1b1726",
             "showMeta": true
           },
           "title": "Goals and Achievements",
@@ -2361,8 +2426,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#000000",
-              "border-color": "#000000"
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             },
             "P": {
               "color": "#ffffff",
@@ -2375,13 +2440,13 @@
           "_name": "features7",
           "_anchor": "features7-1m",
           "_params": {
-            "iconsBgColor": "#000000",
+            "iconsBgColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#0b0812",
+            "bgColor": "#1b1726",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2406,7 +2471,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#fff",
+              "color": "#9365b8",
               "newWindow": false
             }
           },
@@ -2423,7 +2488,7 @@
               "active": true,
               "link": "",
               "size": "",
-              "color": "#ffffff",
+              "color": "#9365b8",
               "newWindow": false
             }
           },
@@ -2440,7 +2505,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#fff",
+              "color": "#9365b8",
               "newWindow": false
             }
           },
@@ -2457,7 +2522,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#fff",
+              "color": "#9365b8",
               "newWindow": false
             }
           },
@@ -2502,43 +2567,80 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff",
-              "text-align": "right"
+              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-24",
+          "_anchor": "header3-2n",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#0b0812",
-            "showMeta": true
+            "showMeta": false
           },
-          "title": "Full Biography &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
-          "meta": ""
+          "title": "Full Biography",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-32",
+          "_params": {
+            "imageSize": "23",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#0b0812",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/file-000-3-1400x2305.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "_anchor": "content1-25",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#0b0812"
-          },
-          "text": "Laura Coromina Is an eigth grader currently attending Miami Arts Studio 6-12. She is 14 years old and persues a job as an accountant for now. She has been taking Technology Production for 3 years and is ahead in Math 2 years. She has done a series of competitions showcasing her talents, such as the MDCPS Refresh Logo Competition and the Innovate CTE Challenge. Laura has participated in theater production as either production manager or prop handler. Laura has been in SECME and in Bionic Hand. She as experiance with building things and electrical work. &nbsp;Laura works hard and never gives up. She is determined and tries to produce quality work. She listens and works well with others. Laura's aspiration in life is to have everyone modernized and social with everyone.&nbsp;"
+          "title": "",
+          "text": "    Laura Coromina Is an eigth grader currently attending Miami Arts Studio 6-12. She is 14 years old and persues a job as an accountant for now. She has been taking Technology Production for 3 years and is ahead in math 2 years. She has done a series of competitions showcasing her talents, such as the MDCPS Refresh Logo Competition and the Innovate CTE Challenge. Laura has participated in theater production as either production manager or prop handler. Laura has been in SECME in the group bionic hand. She as experiance with building things and electrical work.  Laura works hard and never gives up. She is determined and tries to produce quality work. She listens and works well with others. Laura's aspiration in life is to have everyone modernized and social with everyone. .",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -2582,7 +2684,8 @@
     },
     "Resume.html": {
       "settings": {
-        "title": "Resume"
+        "title": "Resume",
+        "order": 11
       },
       "components": [
         {
@@ -2621,13 +2724,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#4d4d4d"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#5e5e5e!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#666666"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2803,7 +2906,8 @@
     "AP courses.html": {
       "settings": {
         "title": "AP Cources",
-        "meta_descr": "Website Generator Description"
+        "meta_descr": "Website Generator Description",
+        "order": 12
       },
       "components": [
         {
@@ -2842,13 +2946,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#4d4d4d"
+              "background": "#040306"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#5e5e5e!important"
+              "background": "#130e1f!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#666666"
+              "background": "#1a1329"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2996,7 +3100,8 @@
     "SAT Scores.html": {
       "settings": {
         "title": "AP Cources",
-        "meta_descr": "Website Generator Description"
+        "meta_descr": "Website Generator Description",
+        "order": 13
       },
       "components": [
         {
