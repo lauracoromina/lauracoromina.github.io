@@ -1163,12 +1163,11 @@ h6,
 #features7-1m H4 {
   color: #ffffff;
 }
-#header3-2n .mbr-section-title,
-#header3-2n .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2n H3 {
+#msg-box5-37 H3 {
   color: #ffffff;
+}
+#msg-box5-37 P {
+  color: #efefef;
 }
 #msg-box5-32 P {
   color: #ffffff;
