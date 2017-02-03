@@ -381,6 +381,11 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
@@ -463,7 +468,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-9-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-9-2000x2000.png",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Photoshop",
@@ -474,6 +479,26 @@
                 "image": "@PROJECT_PATH@/assets/images/untitled-8-2000x2000.png",
                 "caption": "",
                 "active": false
+              },
+              {
+                "tags": "Illustrator",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000.png",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Animate",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=iusRYa1E-VI&feature=youtu.be",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000.png",
+                "caption": "",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -486,12 +511,7 @@
           },
           "_anchor": "gallery4-i",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            "LI": {
-              "color": "#ffffff"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -1120,10 +1140,25 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 0,
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "images": [
+              {
+                "tags": "Microsoft Word, DiscussIT",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x1864-800x745.jpg",
+                "image": "@PROJECT_PATH@/assets/images/discuss-it-topic-6-2000x1864.jpg",
+                "caption": "DiscussIT 6: Where is our country headed?",
+                "active": false
+              },
               {
                 "tags": "Microsoft Word, DiscussIT",
                 "playVideo": false,
@@ -1145,12 +1180,27 @@
           },
           "_anchor": "gallery4-35",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            "LI": {
-              "color": "#ffffff"
-            }
-          }
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Technology Production @ Miami Arts Studio 6-12<br><br>"
         },
         {
           "_tags": [
@@ -1958,22 +2008,22 @@
               "font-family": "'Lora', serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#040306"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#130e1f!important"
+              "background": "#050307!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#1a1329"
+              "background": "#0b0812"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1986,11 +2036,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "@primaryColor!important"
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1j",
+          "_anchor": "ext_menu-2c",
           "_params": {
             "bgColor": "#0b0812",
             "fontSize": "0.75",
@@ -2003,18 +2053,20 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-597x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2050,7 +2102,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-2000x1333.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -2088,14 +2140,14 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1k",
+          "_anchor": "contacts1-2g",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -2110,8 +2162,9 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/0-128x80-55.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-footer-128x128.png",
               "width": 128,
+              "active": true,
               "link": "",
               "alt": "",
               "title": "",
@@ -2119,12 +2172,8 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "mobile",
-              "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "text1": "<strong>Address</strong><br>15015 SW 24th Street,<br> Miami, FL 33185<br>",
@@ -3024,22 +3073,22 @@
               "font-family": "'Lora', serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#4d4d4d"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#5e5e5e!important"
+              "background": "#050307!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#666666"
+              "background": "#0b0812"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -3052,7 +3101,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "@primaryColor!important"
             }
           },
           "_name": "ext.menu",
