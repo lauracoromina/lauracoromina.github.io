@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "name": "Laura Coromina",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 141,
+    "uniqCompNum": 146,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-favicon-2-128x128-2.png",
     "noImageResize": "",
@@ -187,6 +187,15 @@
             "Theme"
           ],
           "_name": "msg-box1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box1-3q",
           "_params": {
             "paddingTop": "1",
@@ -210,16 +219,133 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "More About Me -&gt;",
+          "title": "More About Me -&gt;"
+        },
+        {
+          "_inherit": "content5",
           "_styles": {
-            ".btn": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            "DIV": {
+              "text-align": "right",
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-3x",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/S0DSvJwLe8s?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#221c35",
+            "showTitle": true,
+            "showCaption": false
+          },
+          "title": "Drone Footage of Miami",
+          "caption": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
             "H3": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-41",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#221c35",
+            "showMeta": true
+          },
+          "title": "A Sneak Peek Of My Work",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/untitled-2000x2000.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-40",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
@@ -312,7 +438,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Laura Coromina @ Technology"
+          "text": "Laura Coromina 2017 @ Technology"
         }
       ]
     },
@@ -534,7 +660,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-8-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-8-2000x2000.png",
                 "caption": "Chicago Postcard recreated",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animate",
@@ -545,6 +671,16 @@
                 "image": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000.png",
                 "caption": "A Group Animation&nbsp;",
                 "active": false
+              },
+              {
+                "tags": "Photoshop",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/laura-coromina-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/laura-coromina-2000x1333.jpg",
+                "caption": "Masterpiece Reproduction- Still being worked on<br>",
+                "active": true
               }
             ],
             "spacing": "1",
@@ -650,7 +786,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Laura Coromina @ Technology"
+          "text": "Laura Coromina 2017 @ Technology"
         }
       ]
     },
@@ -1100,7 +1236,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Laura Coromina @ Technology"
+          "text": "Laura Coromina 2017 @ Technology"
         }
       ]
     }

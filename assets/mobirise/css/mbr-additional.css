@@ -502,6 +502,22 @@ h6,
 #msg-box1-3q H3 {
   color: #ffffff;
 }
+#content8-3x .mbr-section-title,
+#content8-3x p {
+  text-align: right;
+  color: #fff;
+}
+#content8-3x DIV {
+  text-align: right;
+  color: #efefef;
+}
+#header3-41 .mbr-section-title,
+#header3-41 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-41 H3 {
+  color: #ffffff;
+}
 #contacts4-3d .btn {
   font-family: 'Lora', serif;
 }
