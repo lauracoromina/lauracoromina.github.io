@@ -8,9 +8,6 @@
 
 
 
-
-
-
 body,
 input,
 textarea,
@@ -58,6 +55,12 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Lora', serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -485,22 +488,8 @@ h6,
 #ext_menu-2m .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#header1-3r .mbr-section-lead {
-  text-align: center;
-  font-size: 24px;
+#header1-42 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
-}
-#header1-3r .mbr-section-title {
-  font-family: 'Lora', serif;
-}
-#header1-3r .btn {
-  font-family: 'Lora', serif;
-}
-#msg-box1-3q .btn {
-  font-family: 'Raleway', sans-serif;
-}
-#msg-box1-3q H3 {
-  color: #ffffff;
 }
 #content8-3x .mbr-section-title,
 #content8-3x p {

@@ -15,13 +15,13 @@
         "titleFont": "Lora",
         "subtitleFont": "Montserrat",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 146,
+    "uniqCompNum": 147,
     "versionPublish": "3.11.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-favicon-2-128x128-2.png",
     "noImageResize": "",
@@ -135,34 +135,18 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laura Coromina</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe.html\" aria-expanded=\"false\">Adobe Products</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3 Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Living Online.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe.html\" aria-expanded=\"false\">Adobe Products</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3 Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Living Online.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "text-align": "center",
-              "font-size": "24px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            },
-            ".btn": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "header1-3r",
+          "_anchor": "header1-42",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-8-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -172,54 +156,21 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#000000",
+            "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "Laura Coromina",
-          "text": "<br><i>Welcome to my website. Here you will find all my work that I have done in school and out of school, my goals and achievements, refrences, and my credentials.&nbsp;</i>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click here for more about me</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
+          "text": "<br><i>Welcome to my website. Here you will find all my work that I have done in school and out of school, my goals and achievements, refrences, and my credentials.</i><br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"adobe.html\" data-toolbar=\"-mbrBtnMove\">Gallery</a>",
           "_styles": {
-            ".btn": {
+            ".mbr-section-lead": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "H3": {
-              "color": "#ffffff"
             }
-          },
-          "_anchor": "msg-box1-3q",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#221c35",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "More About Me -&gt;"
+          }
         },
         {
           "_inherit": "content5",
@@ -239,8 +190,8 @@
           "_name": "content8",
           "_anchor": "content8-3x",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -253,7 +204,7 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.8",
             "overlayColor": "#221c35",
             "showTitle": true,
             "showCaption": false
@@ -335,7 +286,7 @@
                 "active": false
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#221c35",
@@ -542,7 +493,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laura Coromina</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe.html\" aria-expanded=\"false\">Adobe Products</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3 Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Living Online.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe.html\" aria-expanded=\"false\">Adobe Products</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3 Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Living Online.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -569,7 +520,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-1-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-1-2000x2000.png",
-                "caption": "Minions Magnet Banner for School Website",
+                "caption": "Minions magnet banner for school website",
                 "active": false
               },
               {
@@ -579,7 +530,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-3-2000x2000.png",
-                "caption": "A Typography Project about the Technology Program and was printed",
+                "caption": "A typography project about the Technology Program and was printed",
                 "active": false
               },
               {
@@ -589,7 +540,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-4-2000x2000.png",
-                "caption": "Part 1 of Superhero Comic",
+                "caption": "Part 1 of superhero comic",
                 "active": false
               },
               {
@@ -599,7 +550,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-5-2000x2000.png",
-                "caption": "Part 2 of Superhero Comic",
+                "caption": "Part 2 of superhero comic",
                 "active": false
               },
               {
@@ -609,7 +560,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2000x2000.png",
-                "caption": "Expo Fair project that won First Place",
+                "caption": "Expo Fair project that won first place",
                 "active": false
               },
               {
@@ -629,7 +580,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000.png",
-                "caption": "Miami Dade County Logo for Competition",
+                "caption": "Miami Dade County logo for competition",
                 "active": false
               },
               {
@@ -639,7 +590,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-7-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-7-2000x2000.png",
-                "caption": "A recration of the Solor System&nbsp;",
+                "caption": "A recreation of the Solar System&nbsp;",
                 "active": false
               },
               {
@@ -649,7 +600,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-2-2000x2000.png",
-                "caption": "Cinderella School Banner for the School Website",
+                "caption": "Cinderella school banner for the school website",
                 "active": false
               },
               {
@@ -659,7 +610,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/untitled-8-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/untitled-8-2000x2000.png",
-                "caption": "Chicago Postcard recreated",
+                "caption": "Chicago postcard recreated",
                 "active": false
               },
               {
@@ -669,7 +620,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/book-logo-titile-2000x2000.png",
-                "caption": "A Group Animation&nbsp;",
+                "caption": "A group animation&nbsp;",
                 "active": false
               },
               {
@@ -679,7 +630,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/laura-coromina-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/laura-coromina-2000x1333.jpg",
-                "caption": "Masterpiece Reproduction- Still being worked on<br>",
+                "caption": "Masterpiece Reproduction- WIP<br>",
                 "active": true
               }
             ],
@@ -890,7 +841,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laura Coromina</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe.html\" aria-expanded=\"false\">Adobe Products</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3 Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Living Online.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">INTRODUCTION</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobe.html\" aria-expanded=\"false\">Adobe Products</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CREDENTIALS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Industry Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">IC3 Certification</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Living Online.pdf\">Living Online</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\">Computing Fundamentals</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop Certification</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator Certification</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">REFERENCE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Resume</a></li>"
         },
         {
           "_tags": [
@@ -992,7 +943,7 @@
           "_name": "header3",
           "_anchor": "header3-3s",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#332c46",
             "showMeta": true
@@ -1026,7 +977,7 @@
           "_params": {
             "iconsBgColor": "#ffffff",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1061,7 +1012,7 @@
           },
           "title1": "Internship at Major Company",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "I have always wanted to have an internship at a major company. As an intern, I will be learning about the job and the skills needed for the job.",
+          "caption1": "Internshipping is a crucial part of Laura's future. She believes that as an intern, she can learn about time manegement and about what she is intershipping at. She would love to internship at major companies.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1078,7 +1029,7 @@
           },
           "title2": "Accountant",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "An accountant is an important job for buisnesses that need people to deal with money. Since I am 2 Years ahead taking math, math has come easy for me at different levels. I can do math easily and fast.&nbsp;",
+          "caption2": "An accountant is an important job for buisnesses that need people to deal with money. Laura is ahead in math at her school and has a passion for doing math. She has recently been in competitions for math.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1095,14 +1046,14 @@
           },
           "title3": "Criminal Investigator",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Ever since I was a small child, I would watch muder mysteries with my dad and try to figure out who was the murderer. As a detective i would be in contact with technology and using common sense at the same time<br><br>",
+          "caption3": "A criminal investigator has been a dream for Laura since she was a child. She loves the detective television shows and books. Laura has an  enthusiasm for criminal instigating and would love to work in that department.&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "camera",
-              "family": "et-line",
+              "name": "edit2",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
               "size": 0,
@@ -1110,9 +1061,9 @@
               "newWindow": false
             }
           },
-          "title4": "Film Director",
+          "title4": "Teacher",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "As a film director, I would learn to work with other people as well as take charge and tell people what to do. It sounds fun and intriguing to do as a job.",
+          "caption4": "Laura loves to teach classmates and friends about what she learns in school. As a teacher, she could change someone's life with knowledge. If she was to become a teacher, she would focus on either Math, US History, or Technology.&nbsp;<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
