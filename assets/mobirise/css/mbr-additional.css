@@ -445,11 +445,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-2m .link {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
 }
 #ext_menu-2m .dropdown-item,
 #ext_menu-2m .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 1.029rem;
 }
 #ext_menu-2m .link:hover,
 #ext_menu-2m .dropdown-item:hover,
