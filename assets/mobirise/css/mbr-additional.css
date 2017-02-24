@@ -445,11 +445,11 @@ h6,
   font-family: 'Lora', serif;
 }
 #ext_menu-2m .link {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }
 #ext_menu-2m .dropdown-item,
 #ext_menu-2m .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.975rem;
 }
 #ext_menu-2m .link:hover,
 #ext_menu-2m .dropdown-item:hover,
@@ -499,6 +499,9 @@ h6,
 #content8-3x DIV {
   text-align: right;
   color: #efefef;
+}
+#content8-3x .mbr-section-title {
+  text-align: center;
 }
 #header3-41 .mbr-section-title,
 #header3-41 .mbr-section-subtitle {
