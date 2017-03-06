@@ -946,10 +946,10 @@
             "paddingTop": 3,
             "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/file-000-2-2000x1124.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
+            "bgColor": "#100d16",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -1117,7 +1117,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Living Online</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Illustrator</a>",
           "title": "Illustrator Certification",
           "text": "<br>Haven't taken it yet"
         },
@@ -1323,6 +1323,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#cccccc"
+            }
+          },
           "_anchor": "msg-box5-4o",
           "_params": {
             "imageSize": "45",
@@ -1369,15 +1377,7 @@
           },
           "title": "Photoshop Gallery",
           "text": "On the left is my reproduction of a famous masterpiece, still in progress.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#cccccc"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
