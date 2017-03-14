@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "animate.html",
     "name": "Laura Coromina",
     "theme": {
       "name": "mobirise3",
@@ -339,7 +339,7 @@
             "overlayColor": "#221c35"
           },
           "text1": "<b>Address</b><br>5208 sw 141 ave<br>Miami, FL 33175<br><br><br><b>Contacts</b><br>Email: lcoromina@miamiartsstudio.com<br>Phone: (786)-597-7970 or (786)-270-8916<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Lora, serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Links</b></span></font></p><ul class=\"mbr-contacts__list\"><br><li><a href=\"http://mas.dadeschools.net/\" target=\"_blank\">Miami Arts Studio 6-12 Website</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" target=\"_blank\">Technology Production Website</a></li><li><a href=\"https://www.youtube.com/channel/UCdtfGsqDzmOqqv2GwD_LRiA\" target=\"_blank\">Youtube</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Lora, serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Links</b></span></font></p><ul class=\"mbr-contacts__list\"><br><li><a href=\"http://mas.dadeschools.net/\">Miami Arts Studio 6-12 Website</a></li><li><a href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\">Technology Production Website</a></li><li><a href=\"https://www.youtube.com/channel/UCdtfGsqDzmOqqv2GwD_LRiA\">Youtube</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "lcoromina@miamiartsstudio.com",
@@ -999,7 +999,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\" data-toolbar=\"-mbrBtnMove\">Computing Fundamentals</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Computing Fundamentals</a>",
           "text": "&nbsp;IC3 Certificaton #1",
           "title": "Computing Fundamentals"
         },
@@ -1039,7 +1039,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"lauracoromina.github.io/Certification Living Online.pdf\" data-toolbar=\"-mbrBtnMove\">Living Online</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"lauracoromina.github.io/Certification Living Online.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Living Online</a>",
           "title": "Living Online",
           "text": "IC3 Certificaton #2<br>"
         },
@@ -1074,11 +1074,11 @@
             "overlayColor": "#222",
             "inverse": true,
             "showButtons": true,
-            "showText": true,
+            "showText": false,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"lauracoromina.github.io/Certification Computing Fundamentals.pdf\" data-toolbar=\"-mbrBtnMove\">Photoshop</a>",
-          "text": "Will be up in a week",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"lauracoromina.github.io/Certification Photoshop.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Photoshop</a>",
+          "text": "",
           "title": "Photoshop Certifcation"
         },
         {
