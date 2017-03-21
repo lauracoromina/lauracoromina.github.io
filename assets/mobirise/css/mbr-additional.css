@@ -491,17 +491,8 @@ h6,
 #header1-42 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
 }
-#content8-3x .mbr-section-title,
-#content8-3x p {
-  text-align: right;
-  color: #fff;
-}
-#content8-3x DIV {
-  text-align: right;
-  color: #efefef;
-}
-#content8-3x .mbr-section-title {
-  text-align: center;
+#msg-box5-55 H3 {
+  color: #ffffff;
 }
 #header3-41 .mbr-section-title,
 #header3-41 .mbr-section-subtitle {
@@ -735,14 +726,6 @@ h6,
 #msg-box1-4b H2 {
   color: #cccccc;
 }
-#msg-box2-4c .mbr-section-title {
-  color: #fff;
-  text-align: center;
-}
-#msg-box2-4c .mbr-section-subtitle {
-  color: #a0a0a0;
-  text-align: center;
-}
 #contacts4-46 .btn {
   font-family: 'Lora', serif;
 }
@@ -828,11 +811,8 @@ h6,
 #ext_menu-45 .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#msg-box5-4o H3 {
+#msg-box5-54 H3 {
   color: #ffffff;
-}
-#msg-box5-4o P {
-  color: #cccccc;
 }
 #contacts4-3d .btn {
   font-family: 'Lora', serif;
