@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "photshop.html",
+    "currentPage": "index.html",
     "name": "Laura Coromina",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 186,
+    "uniqCompNum": 187,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-favicon-2-128x128-2.png",
     "noImageResize": "",
@@ -178,6 +178,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-55",
           "_params": {
             "imageSize": 50,
@@ -220,12 +225,7 @@
           },
           "title": "Narration",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/mDlhRV4oN2g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Full Video</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/mDlhRV4oN2g\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Full Video</a>"
         },
         {
           "_styles": {
@@ -249,6 +249,19 @@
           },
           "title": "A Sneak Peek Of My Work",
           "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-56",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#221c35"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">See More Work</a>"
         },
         {
           "_inherit": "gallery1",
@@ -1294,6 +1307,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-54",
           "_params": {
             "imageSize": "46",
@@ -1336,12 +1354,7 @@
           },
           "title": "Photoshop Masterpiece Timeline",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
