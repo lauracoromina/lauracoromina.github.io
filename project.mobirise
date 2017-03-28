@@ -211,9 +211,9 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://youtu.be/mDlhRV4oN2g",
+              "src": "https://youtu.be/Aoq3iymbXLs",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": "on",
               "active": true
             },
