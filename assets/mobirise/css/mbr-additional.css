@@ -491,8 +491,11 @@ h6,
 #header1-42 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
 }
-#msg-box5-55 H3 {
-  color: #ffffff;
+#msg-box2-58 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-58 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #header3-41 .mbr-section-title,
 #header3-41 .mbr-section-subtitle {
