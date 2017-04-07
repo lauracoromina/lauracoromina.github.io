@@ -1102,3 +1102,91 @@ h6,
 #footer1-50 P {
   color: #ffffff;
 }
+
+
+
+#ext_menu-59 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-59 .navbar-caption {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 19px;
+}
+#ext_menu-59 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-59 .close-icon::before,
+#ext_menu-59 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-59 .link,
+#ext_menu-59 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+}
+#ext_menu-59 .link {
+  font-size: 0.9rem;
+}
+#ext_menu-59 .dropdown-item,
+#ext_menu-59 .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#ext_menu-59 .link:hover,
+#ext_menu-59 .dropdown-item:hover,
+#ext_menu-59 .link:focus,
+#ext_menu-59 .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-59 .link[aria-expanded="true"],
+#ext_menu-59 .dropdown-menu {
+  background: #040406;
+}
+#ext_menu-59 .nav-dropdown-sm .link:focus,
+#ext_menu-59 .nav-dropdown-sm .link:hover,
+#ext_menu-59 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-59 .nav-dropdown-sm .dropdown-item:hover {
+  background: #14111c!important;
+}
+#ext_menu-59 .navbar,
+#ext_menu-59 .nav-dropdown-sm,
+#ext_menu-59 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-59 .nav-dropdown-sm .dropdown-menu {
+  background: #1b1726;
+}
+#ext_menu-59 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-59 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-59 .bg-color.transparent.opened .link:hover,
+#ext_menu-59 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-59 .link[aria-expanded="true"],
+#ext_menu-59 .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#msg-box4-5c H3 {
+  color: #ffffff;
+}
+#contacts4-5a .btn {
+  font-family: 'Lora', serif;
+}
+#contacts4-5a P {
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+}
+#contacts4-5a B {
+  color: #c1c1c1;
+  font-size: 16px;
+}
+#contacts4-5a UL {
+  font-size: 16px;
+}
+#footer1-5b P {
+  color: #ffffff;
+}
