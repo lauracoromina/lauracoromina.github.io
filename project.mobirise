@@ -2516,6 +2516,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box4-5c",
           "_params": {
             "imageSize": 50,
@@ -2558,12 +2563,7 @@
           },
           "title": "Imagine Dragons- Make the Cut Contest<br>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/S4brMuRnQAI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch in Youtube</a>",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://youtu.be/S4brMuRnQAI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch in Youtube</a>"
         },
         {
           "_tags": [
