@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 198,
+    "uniqCompNum": 199,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-favicon-2-128x128-2.png",
     "noImageResize": "",
@@ -2681,7 +2681,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
