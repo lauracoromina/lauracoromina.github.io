@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "animate.html",
     "name": "Laura Coromina",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 199,
+    "uniqCompNum": 203,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-favicon-2-128x128-2.png",
     "noImageResize": "",
@@ -1965,61 +1965,170 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\" aria-expanded=\"false\">Biography</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Adobe Products</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"photshop.html\">Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"illustrator.html\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"animate.html\">Animate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"premiere.html\" aria-expanded=\"true\">Premiere Pro</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Office Suite</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"word.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lauracoromina.github.io/Discuss IT Topic 6.pdf\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"introduction.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certifications.html\" aria-expanded=\"false\">Industry Certifications</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">References</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr. Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ms. Roche</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mrs. Cortina</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"Resume.html\">Personal</a></li>"
         },
         {
-          "_inherit": "header2",
+          "_inherit": "msg-box8",
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead": {
+              "color": "#efefef"
+            },
             ".mbr-section-title": {
               "color": "#ffffff"
             },
-            ".mbr-section-text": {
+            ".lead P": {
               "color": "#efefef"
+            },
+            ".lead H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-4v",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-5k",
           "_params": {
-            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/file-000-2-2000x1124.png",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#191526",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.8",
-            "overlayColor": "#221c35",
-            "inverse": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "showArrow": true
+            "showButton": false
+          },
+          "title": "Animation",
+          "text": "<h3><span style=\"font-size: 1.07rem; line-height: 1.5;\">These videos are more of a variety of applications used. In every animation I have used more than one application. Some videos are made with Character Animate and other videos are made in Adobe Animate.&nbsp;</span></h3>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-5l",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#1d182d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
               "active": true,
               "src": "https://www.youtube.com/watch?v=iusRYa1E-VI&list=PLIYdxPHPuW-RvndUizkscQZTi07__ar7G",
               "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 250
             }
           },
-          "title": "Adobe Animate",
-          "text": "First animation, on the left. Working on a major animation with classmates and friends.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "title": "Family Matters",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "60px",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "19px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box4-5m",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#1d182d",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=A9R-E4O6_ng&feature=youtu.be",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Passengers&nbsp;",
+          "text": "<p>How It Should Have Ended.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_tags": [

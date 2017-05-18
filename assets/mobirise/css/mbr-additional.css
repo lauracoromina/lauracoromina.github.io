@@ -929,6 +929,7 @@ h6,
 
 
 
+
 #ext_menu-4s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -993,11 +994,35 @@ h6,
 #ext_menu-4s .dropdown-item[aria-expanded="true"] {
   color: #ffffff!important;
 }
-#header6-4v .mbr-section-title {
+#msg-box3-5k .mbr-section-title,
+#msg-box3-5k p {
+  color: #000;
+}
+#msg-box3-5k .lead {
+  color: #efefef;
+}
+#msg-box3-5k .mbr-section-title {
   color: #ffffff;
 }
-#header6-4v .mbr-section-text {
+#msg-box3-5k .lead P {
   color: #efefef;
+}
+#msg-box3-5k .lead H3 {
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box4-5l H3 {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box4-5m H3 {
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+}
+#msg-box4-5m P {
+  color: #ffffff;
+  font-size: 19px;
+  text-align: center;
 }
 #contacts4-4t .btn {
   font-family: 'Lora', serif;
