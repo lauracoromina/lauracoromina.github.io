@@ -10,7 +10,7 @@
         "secondaryColor": "#f40b0b",
         "successColor": "#10b43f",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
+        "warningColor": "#0fb7b1",
         "dangerColor": "#f28281",
         "titleFont": "Slabo 27px",
         "subtitleFont": "Lora",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "3.10.7"
   },
   "pages": {
@@ -154,7 +154,7 @@
             "bgColor": "#ded7d7",
             "showMeta": false
           },
-          "title": "HELLO",
+          "title": "Hello",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -179,7 +179,7 @@
             "bgColor": "#cec3c3",
             "showMeta": false
           },
-          "title": "I'M LAURA",
+          "title": "I'm Laura",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -204,7 +204,7 @@
             "bgColor": "#b4aeae",
             "showMeta": false
           },
-          "title": "I AM A TECHNOLOGY STUDENT",
+          "title": "I am a technology student",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -229,8 +229,46 @@
             "bgColor": "#9b9b9b",
             "showMeta": false
           },
-          "title": "AT MIAMI ARTS STUDIO",
+          "title": "At Miami Arts Studio",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#0fcac3"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#8e8c8c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "Learn more about me",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"biography.html\" data-toolbar=\"-mbrBtnMove\">Biography</a>"
         },
         {
           "_inherit": "msg-box8",
