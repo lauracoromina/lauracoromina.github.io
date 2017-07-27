@@ -121,8 +121,8 @@ h6,
   border-color: #ac9999 !important;
 }
 .btn-secondary {
-  background-color: #12ba99;
-  border-color: #12ba99;
+  background-color: #f40b0b;
+  border-color: #f40b0b;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -131,14 +131,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #0b7460;
-  border-color: #0b7460;
+  background-color: #ab0808;
+  border-color: #ab0808;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #0b7460 !important;
-  border-color: #0b7460 !important;
+  background-color: #ab0808 !important;
+  border-color: #ab0808 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -242,8 +242,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #095d4d;
-  color: #095d4d;
+  border-color: #920707;
+  color: #920707;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -251,14 +251,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #12ba99;
-  border-color: #12ba99;
+  background-color: #f40b0b;
+  border-color: #f40b0b;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #12ba99 !important;
-  border-color: #12ba99 !important;
+  background-color: #f40b0b !important;
+  border-color: #f40b0b !important;
 }
 .btn-info-outline {
   background: none;
@@ -452,19 +452,19 @@ h6,
 }
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-menu {
-  background: #0d8b73;
+  background: #d40202;
 }
 #menu-9 .nav-dropdown-sm .link:focus,
 #menu-9 .nav-dropdown-sm .link:hover,
 #menu-9 .nav-dropdown-sm .dropdown-item:focus,
 #menu-9 .nav-dropdown-sm .dropdown-item:hover {
-  background: #11ac8e!important;
+  background: #f80202!important;
 }
 #menu-9 .navbar,
 #menu-9 .nav-dropdown-sm,
 #menu-9 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-9 .nav-dropdown-sm .dropdown-menu {
-  background: #12ba99;
+  background: #fd0c0c;
 }
 #menu-9 .bg-color.transparent .link {
   color: #ffffff;
