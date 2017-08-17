@@ -1,10 +1,4 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i);
 @import url(../../../https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i);
-
-
-
-
 
 body {
   font-family: Rubik;
@@ -23,28 +17,28 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Playfair Display', serif;
+  font-family: undefined;
   font-size: 3.8rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'Playfair Display', serif;
+  font-family: undefined;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Lora', serif;
+  font-family: undefined;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Playfair Display', serif;
+  font-family: undefined;
   font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
@@ -1038,8 +1032,8 @@ pre {
   color: #ffffff;
 }
 .cid-qszXxhvlgs {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ab0808;
 }
 .cid-qszOXPKte7 .navbar {
